@@ -2,140 +2,143 @@
 
 # 🌱 Sustainable Farming System
 
-### 🌾 Empowering Agriculture Through Smart Technology
+### Smart Agriculture Platform Powered by Data Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Smart+Agriculture+Platform;Real-Time+Weather+Monitoring;Data-Driven+Crop+Recommendations;Helping+Farmers+Make+Better+Decisions+🌿"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Punya-16/Sustainable-Farming-System?style=for-the-badge&color=22C55E)
-![GitHub repo size](https://img.shields.io/github/repo-size/Punya-16/Sustainable-Farming-System?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Punya-16/Sustainable-Farming-System?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=4CAF50&center=true&vCenter=true&width=750&lines=Smart+Agriculture+Solution;Cultivation+Suitability+Checker;Weather+Trend+Analysis;Helping+Farmers+with+Technology+🌾"/>
 
 </div>
 
 ---
 
-# 📖 Overview
+# 📖 Project Overview
 
-The **Sustainable Farming System** is a web-based application designed to support farmers by providing intelligent agricultural insights based on soil conditions, weather information, and environmental factors.
-
-The goal of this project is to encourage **smart farming**, improve productivity, and assist farmers in making informed decisions using technology.
+The **Sustainable Farming System** is a web-based application developed to support modern agriculture through data-driven decision-making. It helps farmers understand cultivation suitability, explore agricultural trends, and make informed farming decisions using weather and agricultural data.
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
-🌾 Crop Recommendation
+🌾 User-friendly Login & Home Page
 
-🌦️ Real-Time Weather Information
+🌱 Cultivation Suitability Checker
 
-🌱 Soil Condition Analysis
+📊 Trend Analysis Dashboard
 
-💧 Water Resource Monitoring
+🌦 Agricultural Data Visualization
 
-📍 Farmer-Friendly Interface
+📈 Demand & Consumption Pattern Analysis
 
-📊 Data-Driven Decision Support
+💡 Interactive Navigation
+
+📱 Responsive User Interface
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Frontend | HTML5, CSS3, JavaScript |
-| Database | SQL |
-| APIs | REST Weather API |
-| Tools | VS Code, Git, GitHub |
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Web Structure |
+| CSS3 | Styling |
+| JavaScript | Interactive Features |
+| Bootstrap | Responsive UI |
 
 ---
 
 # 📂 Project Structure
 
 ```text
-Sustainable-Farming-System/
+📦 Sustainable-Farming-System
 │
-├── css/
-├── js/
-├── images/
-├── database/
-├── screenshots/
-├── assets/
+├── login.html
 ├── index.html
+├── checker.html
+├── trend.html
+├── style.css
+├── image1.jpg
+├── image2.jpg
+├── image3.jpg
+├── images/
 └── README.md
 ```
 
 ---
 
-# 🚀 How It Works
+# 🚀 Application Workflow
 
-1️⃣ User enters farming-related information.
-
-⬇️
-
-2️⃣ System collects weather information using APIs.
-
-⬇️
-
-3️⃣ Soil and environmental conditions are analyzed.
-
-⬇️
-
-4️⃣ Smart farming recommendations are displayed.
-
----
-
-# 🌍 Project Highlights
-
-✅ Simple and User-Friendly Interface
-
-✅ Real-Time Weather Integration
-
-✅ Sustainable Agriculture Support
-
-✅ Data-Driven Recommendations
-
-✅ Responsive Web Design
+```text
+User Login
+     │
+     ▼
+Home Page
+     │
+     ├──────────────► Cultivation Suitability Checker
+     │
+     ▼
+Trend Analysis
+     │
+     ├── Demand Pattern
+     ├── Inflation Analysis
+     └── Consumption Pattern
+```
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
-> Add screenshots here after uploading them.
+## 🌾 Home Page
 
-### 🏠 Home Page
-
-![Home](screenshots/home.png)
-
-### 🌦️ Weather Dashboard
-
-![Weather](screenshots/weather.png)
-
-### 🌾 Crop Recommendation
-
-![Crop](screenshots/crop.png)
+<img src="screenshots/home.png" width="900">
 
 ---
 
-# 🔮 Future Enhancements
+## 🔐 Login Page
 
-- 🤖 AI-Based Crop Prediction
-- 📱 Mobile Application
-- 🌍 Multi-Language Support
-- 📊 Analytics Dashboard
-- 🛰️ Satellite-Based Monitoring
-- 🌿 Disease Detection using AI
+<img src="screenshots/login.png" width="900">
 
 ---
 
-# 👩‍💻 Developer
+## 📊 Trend Analysis
+
+<img src="screenshots/trend.png" width="900">
+
+---
+
+## 🌱 Cultivation Suitability Checker
+
+<img src="screenshots/checker.png" width="900">
+
+---
+
+# 🌍 Future Enhancements
+
+- 🤖 AI-based Crop Recommendation
+- 🌦 Live Weather API Integration
+- 📍 GPS-based Farm Location
+- 📈 Farmer Dashboard
+- 🌿 Disease Prediction using Machine Learning
+- 📱 Mobile Responsive Design
+
+---
+
+# 👩‍💻 Developed By
 
 ## **Punyashree A L**
 
 💻 Software Developer
 
-🧪 Software Testing Enthusiast
+🧪 Python Software Testing Enthusiast
 
-🤖 AI-Powered Web Development
+🤖 AI-Powered Web Application Developer
+
+📋 Project Management Enthusiast
 
 ---
 
@@ -147,14 +150,14 @@ Sustainable-Farming-System/
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/punyashree-a-l-743a7a246/
+**https://www.linkedin.com/in/punyashree-a-l-743a7a246/**
 
 ---
 
 <div align="center">
 
-### 🌱 *"Technology grows stronger when it helps nature flourish."*
+### ⭐ If you like this project, don't forget to Star the repository!
 
-⭐ If you found this project interesting, consider giving it a **Star** ⭐
+*"Empowering Agriculture Through Technology and Data."* 🌱
 
 </div>
